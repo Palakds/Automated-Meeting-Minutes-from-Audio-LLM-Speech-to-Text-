@@ -60,7 +60,7 @@ The audio is automatically segmented and transcribed before being sent to the LL
 | Deep Learning Framework | PyTorch |
 | Transformers | HuggingFace Transformers |
 | Environment | Google Colab / Jupyter Notebook |
-| Hardware | NVIDIA T4 GPU |
+| Hardware | T4 GPU |
 
 ---
 
